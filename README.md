@@ -7,12 +7,6 @@
 # <a>Django Crud, Ajax, Login, Register,Dashboard Etc </a>
 
 ### Live demo <a target="_blank" href="https://gowtham-django-app.herokuapp.com/">Click Here</a>
-##### username : gowthaman.nkl1@gmail.com , password : Welcome@123
-
-Save Developer for Feature Developement Please Donate a small Money
-Make a donation to you as much as possible
- <a href="https://paypal.me/gowthamdurai?locale.x=en_GB">Donate a 5$</a>
-
 #### Key Features
 - 1 . Register
 - 2 . Login
@@ -26,7 +20,7 @@ Make a donation to you as much as possible
 
 # Step for Set Up
 ``` 
- 1. git clone https://github.com/gowthamand/django-crud-ajax-login-register-fileupload
+ 1. git clone https://github.com/adityaanalytics/Analytics
 
  2. Change settings.py MYSQL CONFIGURATIONS (name, user, password)
 
@@ -51,6 +45,6 @@ Make a donation to you as much as possible
 
 ## Screen Shots
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/1.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/adityaanalytics/Analytics/blob/master/screen_shots/1.png)](https://github.com/adityaanalytics/Analytics/)
 
 ## Now Django Project Ready
