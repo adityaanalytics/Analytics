@@ -5,7 +5,7 @@
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin/dev-status.svg)](#)
 
 # <a>Django Crud, Ajax, Login, Register,Dashboard Etc </a>
-# <a>Django, My Sql ,Crud, Ajax, Login, Register,Dashboard Etc </a>
+
 
 #### Key Features
 - 1 . Register
@@ -42,9 +42,5 @@
 
 ```
 ## Dont't Forgot do star and fork
-
-## Screen Shots
-
-[![SB Admin Preview](https://github.com/adityaanalytics/Analytics/blob/master/screen_shots/1.png)](https://github.com/adityaanalytics/Analytics/)
 
 ## Now Django Project Ready
