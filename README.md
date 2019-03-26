@@ -5,8 +5,8 @@
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin/dev-status.svg)](#)
 
 # <a>Django Crud, Ajax, Login, Register,Dashboard Etc </a>
+# <a>Django, My Sql ,Crud, Ajax, Login, Register,Dashboard Etc </a>
 
-### Live demo <a target="_blank" href="https://gowtham-django-app.herokuapp.com/">Click Here</a>
 #### Key Features
 - 1 . Register
 - 2 . Login
